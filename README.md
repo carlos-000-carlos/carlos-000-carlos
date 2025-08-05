@@ -1,6 +1,6 @@
-# Hello, I'm  Carlos Cabral 🙋‍♂️ 👋
+# Hello, I'm  Carlos Cabral!! 🙋‍♂️ 👋
 
-## 💻👨‍💻 Bacharel em Sistemas de Informação
+## 💻👨‍💻 Bachelor of Information Systems
 
 ### How to reach me:
 
