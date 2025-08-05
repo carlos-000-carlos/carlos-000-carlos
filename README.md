@@ -1,11 +1,11 @@
 # Olá, sou o Carlos Cabral 🙋‍♂️ 👋
+
 ## 💻👨‍💻 Bacharel em Sistemas de Informação
+
 ### Como entar em contato comigo:
+
 <a href="https://www.linkedin.com/in/carlos-cabral-de-menezes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:cabral.events@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
